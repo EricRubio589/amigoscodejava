@@ -8,5 +8,6 @@ public class Main {
         System.out.println(10+10);
         System.out.println(car);
         System.out.println("new thing");
+        System.out.println(25-205);
     }
 }
