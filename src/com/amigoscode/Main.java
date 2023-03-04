@@ -9,6 +9,6 @@ public class Main {
         System.out.println(car);
         System.out.println("new thing");
         System.out.println(25-205);
-        System.out.println("Last thing");
+        System.out.println("Testing");
     }
 }
