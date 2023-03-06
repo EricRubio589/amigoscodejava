@@ -10,5 +10,7 @@ public class Main {
         System.out.println("new thing");
         System.out.println(25-205);
         System.out.println("Testing");
+        System.out.println(89-25);
     }
+    
 }
