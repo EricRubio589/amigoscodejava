@@ -9,6 +9,7 @@ public class Main {
         System.out.println(car);
         System.out.println("new thing");
         System.out.println(90/10);
+        System.out.println("This week we're adding more stuff");
     }
 
 }
