@@ -15,6 +15,7 @@ public class Main {
         System.out.println( 10 % 5);
         System.out.println(++car);
         System.out.println("Fixed the issue");
+        System.out.println("Fixed the issue");
 
 
     }
