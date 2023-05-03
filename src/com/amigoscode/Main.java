@@ -3,20 +3,23 @@ package com.amigoscode;
 public class Main {
     public static void main(String[] args) {
 
-        int car = 25;
-        int bus = 5;
-        bus %= 2;
-        System.out.println(bus);
-        System.out.println("Hello Java UwU");
-        System.out.println(10+10);
-        System.out.println(car);
-        System.out.println("new thing");
-        //-- This is a comment--//
-        System.out.println( 10 % 5);
-        System.out.println(++car);
-        System.out.println("Fixed the issue");
-        System.out.println("Fixed the issue");
+        /*
+            Write a program that compares two numbers. i.e x > y
+            Create 3 variables.
+            2 to store both numbers and 1 to store the result
+            Print the result
+        */
 
+        int x = 20;
+        int y = 10;
+        boolean result;
+
+        if (x > y) {
+            result = true;
+        } else {
+            result = false;
+        }
+        System.out.println(result);
 
     }
 
