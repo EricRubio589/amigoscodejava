@@ -19,6 +19,7 @@ public class Main {
 
         System.out.println(Arrays.toString(perro));
         System.out.println(result);
+        System.out.println("new thing");
     }
 
 }
